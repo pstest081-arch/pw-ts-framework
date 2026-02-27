@@ -1,0 +1,23 @@
+{
+  "name": "pw-ts-framework",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pstest081-arch/pw-ts-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pstest081-arch/pw-ts-framework/issues"
+  },
+  "homepage": "https://github.com/pstest081-arch/pw-ts-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.1"
+  }
+}
